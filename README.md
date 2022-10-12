@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhinavmuta
-- 👀 I’m interested in computational modelling of physical systems, math, sci-fi, and fantasy!
-- 🌱 I’m currently learning to weave on a handloom, and the french language!
+- 👋 Hi, I’m Abhinav!
+- 👀 I’m interested in computational modeling of physical systems, math, science fiction, and fantasy!
+- 🌱 I’m currently learning weaving and the french language!
 - 📫 Reach me by writing me a letter addressed to,<br/>
     Abhinav Muta<br/>
     Research Scholars' Lab, Aerospace annex, Below HSS Department<br/>
