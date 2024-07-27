@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhinav!
 - 👀 I’m interested in computational modeling of physical systems.
 - 🌱 During my free time, I read math, science fiction, and fantasy!
-- 📫 Reach me at: abhinavm@aero.iitb.ac.in
 
 <!---
 abhinavmuta/abhinavmuta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
